@@ -13,7 +13,7 @@
 
 <p>
 
-  🌱 I'm an Engineering, studying to become a developer soon. </br>
+  🌱 I'm an Engineer, studying to become a developer soon. </br>
      :computer: From Brazil Living in Hungary </br>
      🔭 Interested in working with Front end or Back end, and currently learning about Javascript,ReactJS, NodeJS and Python. 
     </br>
