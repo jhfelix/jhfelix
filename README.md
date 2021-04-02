@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhfelix"  height=300 />
 </a> 
 <a href="https://github.com/jhfelix/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhfelix"  width=600 />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhfelix"  width=800 />
 </a>
 
 
