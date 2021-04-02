@@ -38,7 +38,7 @@
  
 
 <a href="https://github.com/jhfelix/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhfelix&layout=compact"  height=155 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhfelix)](https://github.com/jhfelix/github-readme-stats)"  height=155 />
 </a> 
 <a href="https://github.com/jhfelix/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jhfelix"  width=400 />
